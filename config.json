@@ -1,0 +1,1 @@
+{"test_size": 0.15, "model_checkpoint": "bert-base-multilingual-cased", "model_path": "samolet_finetuned_0_59", "batch_size": 4, "seed": 1984, "num_layers": 5, "drive_path": "https://drive.google.com/drive/folders/1zX0YY_u9cO-fCP-HYOMF0FIcaSb5jMdU?usp=sharing"}
